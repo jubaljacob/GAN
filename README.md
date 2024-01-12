@@ -9,6 +9,4 @@ This project is inspired by the original GAN paper by Ian Goodfellow and the off
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to fork and modify the code to suit your needs! If you encounter any issues or have suggestions, please open an issue or submit a pull request. Happy coding!
+Feel free to fork and modify the code to suit your needs! If you encounter any issues or have suggestions, please open an issue or submit a pull request.
