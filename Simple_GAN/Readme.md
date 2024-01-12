@@ -16,7 +16,7 @@ Make sure you have the following dependencies installed:
 Install the required packages using:
 
 ```bash
-pip install torch torchvision tensorboard matplotlib
+pip install torch torchvision tensorboard 
 ```
 
 
