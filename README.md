@@ -5,7 +5,7 @@ Explore my GAN Learning repository, a collection of project files created while 
 
 ## Acknowledgments
 
-This project is inspired by the original GAN paper by Ian Goodfellow and the official PyTorch tutorials on GANs.
+This project is inspired by the tutorial series uploaded by Aladdin Persson on his YouTube channel which I am using as a reference.
 
 ## License
 
