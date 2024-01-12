@@ -1,5 +1,9 @@
-<h1 align="center" id="title">Simple GAN</h1>
+Welcome to the GAN Project repository, where we explore the world of Generative Adversarial Networks (GANs) using PyTorch to generate synthetic images from the MNIST dataset. This project also leverages Tensorboard for visualizing the training process and monitoring the model's performance.
+Prerequisites
 
-<p align="center"><img src="https://socialify.git.ci/jubaljacob/GAN/image?font=Jost&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
+Make sure you have the following dependencies installed:
 
-<p id="description">A initial implementation of GAN on the MNIST dataset.</p>
+    Python 3.x
+    PyTorch
+    torchvision
+    Tensorboard
