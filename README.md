@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the GAN Project repository, where we explore the world of Generative Adversarial Networks (GANs) using PyTorch to generate synthetic images from the MNIST dataset. This project also leverages Tensorboard for visualizing the training process and monitoring the model's performance.
+Welcome to the GAN Project repository, where we explore the world of Generative Adversarial Networks (GANs) using PyTorch 
 
 ## Prerequisites
 
@@ -40,14 +40,13 @@ The project utilizes the MNIST dataset, a collection of handwritten digits widel
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/gan-mnist-pytorch-tensorboard.git
-   cd gan-mnist-pytorch-tensorboard
+   git clone https://github.com/jubaljacob/GAN.git
    ```
 
 2. **Run the training script:**
 
    ```bash
-   python main.py
+   python Simple_GAN.py
    ```
 
    This will train the GAN on the MNIST dataset and save the generated images in the `output/` directory. Tensorboard logs will be stored in the `logs/` directory.
@@ -62,7 +61,7 @@ The project utilizes the MNIST dataset, a collection of handwritten digits widel
 
 ## Hyperparameters
 
-You can modify the hyperparameters in the `main.py` file to experiment with different configurations, such as learning rate, number of epochs, batch size, etc.
+You can modify the hyperparameters in the `Simple_GAN.py` file to experiment with different configurations, such as learning rate, number of epochs, batch size, etc.
 
 ## Acknowledgments
 
