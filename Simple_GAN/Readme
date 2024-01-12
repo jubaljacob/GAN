@@ -1,1 +1,5 @@
+<h1 align="center" id="title">Simple GAN</h1>
 
+<p align="center"><img src="https://socialify.git.ci/jubaljacob/GAN/image?font=Jost&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
+
+<p id="description">A initial implementation of GAN on the MNIST dataset.</p>
