@@ -1,8 +1,7 @@
-# GAN Project with PyTorch and Tensorboard
+# GAN Learning Repo
 
 ## Overview
-
-Welcome to the GAN Project repository, where we explore the world of Generative Adversarial Networks (GANs) using PyTorch 
+Explore my GAN Learning repository, a collection of project files created while learning about Generative Adversarial Networks (GANs).
 
 ## Prerequisites
 
@@ -19,21 +18,6 @@ Install the required packages using:
 pip install torch torchvision tensorboard matplotlib
 ```
 
-## Dataset
-
-The project utilizes the MNIST dataset, a collection of handwritten digits widely used for training image processing systems. PyTorch provides a convenient interface to download and load the MNIST dataset.
-
-## Project Structure
-
-```
-├── data_loader.py       # Data loader for MNIST dataset
-├── discriminator.py     # Discriminator model
-├── generator.py         # Generator model
-├── gan.py               # Main GAN implementation
-├── utils.py             # Utility functions
-├── main.py              # Script to train and evaluate the GAN
-└── logs/                # Tensorboard logs directory
-```
 
 ## Usage
 
@@ -43,7 +27,7 @@ The project utilizes the MNIST dataset, a collection of handwritten digits widel
    git clone https://github.com/jubaljacob/GAN.git
    ```
 
-2. **Run the training script:**
+2. **Run the simple gan training script:**
 
    ```bash
    python Simple_GAN.py
