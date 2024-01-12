@@ -4,7 +4,7 @@
 
 This repository contains a simple Generative Adversarial Network (GAN) project implemented using PyTorch to generate synthetic images using the MNIST dataset. Additionally, Tensorboard is integrated for visualizing the training process and monitoring the model's performance.
 
-## Prerequisites
+##Prerequisites
 
 Make sure you have the following dependencies installed:
 
